@@ -1,84 +1,84 @@
-![download](https://github.com/jmart375/Cybersecurity-Framework-NIST/assets/91294710/5cf6039a-bd5d-49c4-b788-adbf246bbc6e)
+# Information Security Plan
 
-## NIST Cybersecurity Framework
-The NIST Cybersecurity Framework (CSF) is a set of guidelines, best practices, and standards developed by the National Institute of Standards and Technology (NIST) to help organizations manage and improve their cybersecurity risk management processes. 
-
-The NIST CSF provides a flexible and voluntary framework that organizations can use to assess and enhance their cybersecurity posture. It is designed to be applicable to a wide range of organizations, regardless of size, sector, or cybersecurity maturity. The framework emphasizes risk management and focuses on helping organizations identify, protect, detect, respond to, and recover from cybersecurity threats and incidents.
-
-# NIST Cybersecurity Framework 
-
-## Overview
-- **Title:** NIST Cybersecurity Framework
-- **Subtitle:** Enhancing Critical Infrastructure Security
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Scope](#scope)
+3. [Information Security Policy](#information-security-policy)
+   - 3.1 [Access Control](#access-control)
+   - 3.2 [Data Classification](#data-classification)
+   - 3.3 [Incident Response](#incident-response)
+   - 3.4 [Security Awareness Training](#security-awareness-training)
+4. [Risk Management](#risk-management)
+5. [Security Controls](#security-controls)
+   - 5.1 [Firewall](#firewall)
+   - 5.2 [Antivirus](#antivirus)
+   - 5.3 [Encryption](#encryption)
+6. [Incident Response Plan](#incident-response-plan)
+7. [Security Monitoring](#security-monitoring)
+8. [Physical Security](#physical-security)
+9. [Security Awareness Program](#security-awareness-program)
+10. [Review and Updates](#review-and-updates)
 
 ## Introduction
-- Brief overview of NIST and its role in cybersecurity.
-- Introduction to the NIST Cybersecurity Framework.
+This document outlines the information security plan for [Your Organization Name]. The purpose of this plan is to safeguard the confidentiality, integrity, and availability of information assets.
 
-## Agenda
-1. Introduction to NIST
-2. NIST Cybersecurity Framework Overview
-3. Framework Core Functions
-4. Implementation Tiers
-5. Framework Categories
-6. Benefits and Adoption
-7. Case Studies
-8. Conclusion
+## Scope
+The information security plan applies to all employees, contractors, and third-party entities with access to [Your Organization Name]'s information systems and data.
 
-## Introduction to NIST
-- **NIST:**
-  - Overview of the National Institute of Standards and Technology.
-- **Cybersecurity at NIST:**
-  - NIST's role in developing cybersecurity standards.
+## Information Security Policy
+### Access Control
+- Define access levels and permissions.
+- Implement multi-factor authentication.
+- Regularly review and update access rights.
 
-## NIST Cybersecurity Framework Overview
-- **Purpose:**
-  - Outline the purpose of the NIST Cybersecurity Framework.
-- **Development Process:**
-  - Briefly explain how the framework was developed.
+### Data Classification
+- Classify data based on sensitivity.
+- Define handling procedures for each classification.
 
-## Framework Core Functions
-- **Identify:**
-  - Overview of the identification function.
-- **Protect:**
-  - Overview of the protection function.
-- **Detect:**
-  - Overview of the detection function.
-- **Respond:**
-  - Overview of the response function.
-- **Recover:**
-  - Overview of the recovery function.
+### Incident Response
+- Establish an incident response team.
+- Document incident response procedures.
+- Conduct regular drills and training.
 
-## Implementation Tiers
-- **Tier 1 - Partial:**
-  - Explanation of the first implementation tier.
-- **Tier 2 - Risk Informed:**
-  - Explanation of the second implementation tier.
-- **Tier 3 - Repeatable:**
-  - Explanation of the third implementation tier.
-- **Tier 4 - Adaptive:**
-  - Explanation of the fourth implementation tier.
+### Security Awareness Training
+- Provide ongoing security awareness training.
+- Ensure employees are aware of security policies.
 
-## Framework Categories
-- **Categories:**
-  - Explanation of the framework's categories.
-- **Subcategories:**
-  - Overview of subcategories within each category.
+## Risk Management
+- Conduct regular risk assessments.
+- Identify, assess, and mitigate risks.
 
-## Benefits and Adoption
-- **Benefits:**
-  - Highlight the benefits of implementing the NIST Cybersecurity Framework.
-- **Adoption:**
-  - Discuss the widespread adoption across industries.
+## Security Controls
+### Firewall
+- Implement and maintain a firewall.
+- Configure firewall rules based on security policies.
 
-## Case Studies
-- **Case Study 1:**
-  - Example of a successful implementation.
-- **Case Study 2:**
-  - Challenges and lessons learned.
+### Antivirus
+- Deploy and update antivirus software.
+- Regularly scan systems for malware.
 
-## Conclusion
-- **Summary:**
-  - Recap key points.
-- **Future Developments:**
-  - Mention upcoming updates or revisions.
+### Encryption
+- Encrypt sensitive data in transit and at rest.
+- Implement a key management strategy.
+
+## Incident Response Plan
+- Define incident categories and severity levels.
+- Establish communication protocols during incidents.
+- Document the step-by-step incident response process.
+
+## Security Monitoring
+- Implement continuous security monitoring.
+- Use intrusion detection and prevention systems.
+
+## Physical Security
+- Secure physical access to data centers.
+- Implement surveillance and access controls.
+
+## Security Awareness Program
+- Conduct periodic security awareness campaigns.
+- Promote a culture of security awareness.
+
+## Review and Updates
+- Regularly review and update the information security plan.
+- Ensure alignment with industry standards and regulations.
+
