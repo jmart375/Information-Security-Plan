@@ -24,14 +24,18 @@
 This document outlines the information security plan for "Acme Company". The purpose of this plan is to safeguard the confidentiality, integrity, and availability of information assets.
 
 ## Scope
-The information security plan applies to all employees, contractors, and third-party entities with access to Acme Company's information systems and data.
+The information security plan applies to all employees, contractors, and third-party entities with access to Acme Company's information systems and data.The handling of information is an essential aspect of most business operations, including those of ACME. Information is often considered a valuable asset that organizations need to manage effectively to support their decision-making processes, improve efficiency, and gain a competitive advantage. As such, information handling is typically a critical component of an organization's overall business strategy. With the increasing volume of information being generated and processed by organizations, it is important to have a well-organized information handling system in place. This system should include measures to ensure information security, accountability of assets, and proper classification of information based on its sensitivity. The following will deep into ACME's information handling practices, examining three critical components in depth.
 
-## Information Security Policy
-### Access Control
-- Define access levels and permissions.
-- Implement multi-factor authentication.
-- Regularly review and update access rights.
+## Organization of Information Security
+The organization of information security involves developing a framework for managing and protecting information assets. This framework should address the following areas: 
+### Risk Management:
+- Risk management: Identifying and assessing the risks to information assets and implementing controls to mitigate those risks.
+- Access control: Ensuring that only authorized individuals have access to information assets.
+- Incident management: Developing procedures to respond to security incidents and breaches. 
+- Business continuity: Ensuring that critical information systems and processes are available and can be recovered in the event of a disruption.
+- Compliance: Ensuring that information handling practices comply with legal and regulatory requirements. 
 
+The organization of information security should be guided by policies, procedures, and controls that are developed and implemented with the involvement of all relevant stakeholders. This involves regular training and awareness campaigns to ensure that all employees understand their roles and responsibilities when it comes to information security. 
 ### Data Classification
 - Classify data based on sensitivity.
 - Define handling procedures for each classification.
