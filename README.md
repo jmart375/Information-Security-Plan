@@ -1,4 +1,5 @@
-# Information Security Plan
+![download](https://github.com/jmart375/Information-Security-Plan/assets/91294710/5dc2fb48-4dfb-4d19-94e9-d9fab186370c)
+# Information Security Plan - Case Study "Acme Company"
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -20,10 +21,10 @@
 10. [Review and Updates](#review-and-updates)
 
 ## Introduction
-This document outlines the information security plan for [Your Organization Name]. The purpose of this plan is to safeguard the confidentiality, integrity, and availability of information assets.
+This document outlines the information security plan for "Acme Company". The purpose of this plan is to safeguard the confidentiality, integrity, and availability of information assets.
 
 ## Scope
-The information security plan applies to all employees, contractors, and third-party entities with access to [Your Organization Name]'s information systems and data.
+The information security plan applies to all employees, contractors, and third-party entities with access to Acme Company's information systems and data.
 
 ## Information Security Policy
 ### Access Control
