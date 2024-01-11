@@ -15,9 +15,9 @@
    - 5.1 [Confidential](#Confidential)
    - 5.2 [Internal/Private](#Internal/Private)
    - 5.3 [Public](#Public)
-6. [Why are Identity and access management (IAM) important](#incident-response-plan)
-7. [Security Monitoring](#security-monitoring)
-8. [Physical Security](#physical-security)
+6. [Why are Identity and access management (IAM) important?](#Why-are-Identity-and-access management-important?)
+7. [Why Do You Need IAM?](#Why-Do-You-Need-IAM?)
+8. [Identity and Access Management Policy](#physical-security)
 9. [Security Awareness Program](#security-awareness-program)
 10. [Review and Updates](#review-and-updates)
 
