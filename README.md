@@ -20,13 +20,13 @@
 8. [Identity and Access Management Policy](#physical-security)
 9. [Network Management & Security](#security-awareness-program)
 10. [Operations Management](#review-and-updates)
-11. [Security Monitoring]
-12. [Data Storage]
-13. [Change Control]
-14. [System Development Life Cycle and Mainteance]
-15. [Threat Management]
-16. [Incident Management]
-17. [Business Continuity]
+11. [Security Monitoring](#Security-Monitoring)
+12. [Data Storage](#Data-Storage)
+13. [Change Control](#Change-Control)
+14. [System Development Life Cycle and Mainteance](#System-Development-Life-Cycle)
+15. [Threat Management](#Threat-Management)
+16. [Incident Management](#Incident-Management)
+17. [Business Continuity](#Business-Continuity)
 ## Introduction
 This document outlines the information security plan for "Acme Company". The purpose of this plan is to safeguard the confidentiality, integrity, and availability of information assets.
 
