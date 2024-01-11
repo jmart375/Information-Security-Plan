@@ -15,12 +15,18 @@
    - 5.1 [Confidential](#Confidential)
    - 5.2 [Internal/Private](#Internal/Private)
    - 5.3 [Public](#Public)
-6. [Why are Identity and access management (IAM) important?](#Why-are-Identity-and-access management-important?)
+6. [Why are Identity and access management (IAM) important?]
 7. [Why Do You Need IAM?](#Why-Do-You-Need-IAM?)
 8. [Identity and Access Management Policy](#physical-security)
-9. [Security Awareness Program](#security-awareness-program)
-10. [Review and Updates](#review-and-updates)
-
+9. [Network Management & Security](#security-awareness-program)
+10. [Operations Management](#review-and-updates)
+11. [Security Monitoring]
+12. [Data Storage]
+13. [Change Control]
+14. [System Development Life Cycle and Mainteance]
+15. [Threat Management]
+16. [Incident Management]
+17. [Business Continuity]
 ## Introduction
 This document outlines the information security plan for "Acme Company". The purpose of this plan is to safeguard the confidentiality, integrity, and availability of information assets.
 
